@@ -1,0 +1,14 @@
+
+body {
+	font-size: 1.4rem;
+	text-rendering: optimizeLegibility;
+}
+
+h1 {
+	font-size: 1.4rem;
+}
+
+img {
+	border: none;
+	max-width: 100%;
+}
