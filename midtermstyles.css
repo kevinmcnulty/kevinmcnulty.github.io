@@ -6,9 +6,9 @@ body {
 
 h1 {
 	@font-face {
-	    font-family: 'cormorant_garamondbold';
-	    src: url('cormorantgaramond-bold-webfont.woff2') format('woff2'),
-	         url('cormorantgaramond-bold-webfont.woff') format('woff');
+	    font-family: 'cormorant_garamondregular';
+	    src: url('cormorantgaramond-regular-webfont.woff2') format('woff2'),
+	         url('cormorantgaramond-regular-webfont.woff') format('woff');
 	    font-weight: normal;
 	    font-style: normal;
 	font-size: 36px;
@@ -21,9 +21,9 @@ p {
 
 h2 {
 	@font-face {
-	    font-family: 'cormorant_garamondbold';
-	    src: url('cormorantgaramond-bold-webfont.woff2') format('woff2'),
-	         url('cormorantgaramond-bold-webfont.woff') format('woff');
+	    font-family: 'cormorant_garamondregular';
+	    src: url('cormorantgaramond-regular-webfont.woff2') format('woff2'),
+	         url('cormorantgaramond-regular-webfont.woff') format('woff');
 	    font-weight: normal;
 	    font-style: normal;
 	font-size: 24px;
