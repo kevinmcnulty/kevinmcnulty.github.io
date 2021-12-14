@@ -64,6 +64,15 @@ p {
 	width: 90%;
 }
 
+#p-about {
+  text-align: left;
+  margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+  padding-bottom: 20px;
+  float: right;
+}
+
 button {
   font-family: 'Lato', sans-serif;
   border-style: groove;
@@ -159,4 +168,10 @@ h6 {
 	margin-right: auto;
 	display: block;
 	text-align: center;
+}
+
+#aboutpic {
+  width: 10000px;
+  height: 8000px;
+  display: block;
 }
