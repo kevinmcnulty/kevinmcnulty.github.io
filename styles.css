@@ -99,7 +99,7 @@ footer {
 }
 
 #resume-list {
-  list-style: none;
+  list-style: inherit;
   margin-left: auto:
   margin-right: auto;
   padding-left: 10px;
