@@ -110,6 +110,18 @@ footer {
   width: 80%;
 }
 
+#reel-list {
+  list-style: inherit;
+  margin-left: auto:
+  margin-right: auto;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: left;
+  width: 28%;
+}
+
 ul {
   list-style: none;
   padding-top: 25px;
@@ -126,6 +138,16 @@ ul {
 ul li {
   padding: 12px;
   margin: 12px;
+}
+
+iframe {
+  padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
 h6 {
