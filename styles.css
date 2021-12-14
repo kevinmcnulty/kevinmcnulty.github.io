@@ -1,4 +1,98 @@
 h1 {
-  font-size: 36px;
-  color: #33485e;
+  	font-family: 'Bakbak One', cursive;
+    color: #001540;
+    font-size: 60px;
+  	margin-left: auto;
+  	margin-right: auto;
+  	display: block;
+  	text-align: center;
+  	padding-top: 20px;
+  }
+
+h4 {
+  font-family: 'Bakbak One', cursive;
+  color: #001540;
+  font-size: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
+
+body {
+  	font-family: 'Lato', sans-serif;
+    color: #001540;
+  	background-color: #DBF3FA;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+img {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+  width: 50%;
+}
+
+p {
+  text-align: center;
+}
+
+button {
+  font-family: 'Lato', sans-serif;
+  border-style: groove;
+  border-radius: 12px;
+  transition-duration: 0.4s;
+  background-color: #001540;
+  color: #FFFFFF;
+  padding: 15px 32px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: default;
+}
+
+button:hover {
+  background-color: #FFFFFF;
+  color: #001540;
+}
+
+footer {
+  display: block;
+  width: 100%;
+  length: 100%;
+  text-align: center;
+  padding: 10px;
+  background-color: #001540;
+  color: #FFFFFF;
+}
+
+ul {
+  list-style: none;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
+
+h6 {
+	font-family: sans-serif;
+  color: #FFFFFF;
+	font-size: 12px;
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	text-align: center;
 }
