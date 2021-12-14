@@ -1,7 +1,16 @@
+.header {
+  padding: 15px;
+  text-align: center;
+  background: #001540;
+  color: white;
+  font-size: 30px;
+  width: 100%;
+}
+
 h1 {
   	font-family: 'Bakbak One', cursive;
-    color: #001540;
-    font-size: 60px;
+    color: #FFFFFF;
+    font-size: 72px;
   	margin-left: auto;
   	margin-right: auto;
   	display: block;
@@ -31,18 +40,21 @@ body {
 }
 
 img {
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-top: 20px;
-	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
-  width: 50%;
+  width: 80%;
 }
 
 p {
   text-align: center;
+  margin-left: auto;
+	margin-right: auto;
+	width: 70%;
 }
 
 button {
@@ -52,6 +64,7 @@ button {
   transition-duration: 0.4s;
   background-color: #001540;
   color: #FFFFFF;
+  size: 100px;
   padding: 15px 32px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   text-align: center;
@@ -59,6 +72,8 @@ button {
   font-size: 16px;
   margin: 4px 2px;
   cursor: default;
+  width: 200px;
+  height: 100px;
 }
 
 button:hover {
@@ -78,12 +93,20 @@ footer {
 
 ul {
   list-style: none;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 25px;
+  padding-bottom: 150px;
+  padding-right: 5px;
+  padding-left: 25px;
   margin-left: auto;
   margin-right: auto;
+  width: 5%;
   display: block;
   text-align: center;
+}
+
+ul li {
+  padding: 12px;
+  margin: 12px;
 }
 
 h6 {
